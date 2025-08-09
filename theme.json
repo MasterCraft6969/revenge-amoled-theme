@@ -14,7 +14,6 @@
     "iconpack": "rosiecord-plumpy"
   },
   "semanticColors": {
-    "SPOILER_HIDDEN_BACKGROUND": ["#1A1A1A"]
     "HEADER_PRIMARY": ["#FFFFFF"],
     "HEADER_SECONDARY": ["#FFFFFF"],
     "TEXT_NORMAL": ["#FFFFFF"],
@@ -71,7 +70,9 @@
     "CARD_PRIMARY_BG": ["#000000"],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": ["#FFFFFF"],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000", "#000000", "#000000"],
-    "BG_BASE_TERTIARY": ["#000000"]
+    "BG_BASE_TERTIARY": ["#000000"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#1A1A1A"],
+    "SPOILER_REVEALED_BACKGROUND": ["#000000"]
   },
   "rawColors": {
     "PRIMARY_200": "#037299",
