@@ -1,11 +1,11 @@
 {
-"name": "RBW AMOLED (Teal Edition)",
-"description": "AMOLED black base, using teal (#037299) with gradients instead of red, white & grey for everything else",
+"name": "AMOLED Teal",
+"description": "AMOLED black base, teal gradients",
 "version": "1",
 "authors": [
 {
-"name": "im__turbo__",
-"id": "288054683161853952"
+"name": "mastercraft_48",
+"id": "972218395955171381"
 }
 ],
 "plus": {
@@ -19,7 +19,7 @@
 "TEXT_NORMAL": ["#FFFFFF"],
 "TEXT_SECONDARY": ["#FFFFFF"],
 "TEXT_PRIMARY": ["#FFFFFF"],
-"TEXT_MUTED": ["linear-gradient(180deg, #037299, #03A9C4)"],
+"TEXT_MUTED": ["#4A4A4A80"],
 "INTERACTIVE_NORMAL": ["linear-gradient(180deg, #037299, #03A9C4)"],
 "INTERACTIVE_HOVER": ["#181818"],
 "INTERACTIVE_ACTIVE": ["#FFFFFF"],
@@ -41,7 +41,8 @@
 "BACKGROUND_MODIFIER_SELECTED": ["#181818"],
 "BACKGROUND_MODIFIER_ACCENT": ["#4A4A4A80"],
 "EMBED_BACKGROUND": ["#181818D0"],
-"BACKGROUND_MENTIONED": ["#03729940"],
+"BACKGROUND_MENTIONED": ["#02506640"],
+"MENTION_FOREGROUND": ["#001F3F"],
 "BG_SURFACE_OVERLAY_TMP": ["#000000"],
 "BUTTON_OUTLINE_BRAND_BACKGROUND": ["linear-gradient(180deg, #037299, #03A9C4)"],
 "BUTTON_OUTLINE_BRAND_BOARDER": ["#000000"],
@@ -61,7 +62,7 @@
 "SCROLLBAR_AUTO_THUMB": ["linear-gradient(180deg, #037299, #03A9C4)"],
 "SCROLLBAR_AUTO_TRACK": ["#FFFFFF"],
 "CHANNELS_DEFAULT": ["#FFFFFF"],
-"TEXT_LINK": ["linear-gradient(180deg, #037299, #03A9C4)"],
+"TEXT_LINK": ["#A8F6FF"],
 "TEXT_DANGER": ["#FFFFFF"],
 "KEYBOARD": ["linear-gradient(180deg, #037299, #03A9C4)"],
 "CHANNEL_ICON": ["#FFFFFF"],
@@ -82,14 +83,14 @@
 "PRIMARY_800": "#03729970",
 "BRAND_260": "#037299",
 "BRAND_360": "#037299",
-"BRAND_500": "#1A1A1A",
+"BRAND_500": "#001F3F",
 "BRAND_560": "#000000",
 "RED_400": "#303030",
 "RED_430": "#000000",
 "GREEN_360": "#037299",
 "GREEN_430": "#000000",
 "WHITE_500": "#FFFFFF",
-"BLUE_345": "#037299",
+"BLUE_345": "#A8F6FF",
 "PLUM_1": "#037299",
 "PLUM_3": "#037299",
 "PLUM_6": "#FFFFFF",
@@ -103,7 +104,7 @@
 "PLUM_18": "#020202",
 "PLUM_19": "#000000",
 "PLUM_20": "#000000",
-"PLUM_22": "#18181840",
+"PLUM_22": "#4A4A4A80",
 "PLUM_24": "#000000"
 },
 "fonts": {
