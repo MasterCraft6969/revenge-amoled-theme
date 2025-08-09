@@ -20,7 +20,7 @@
     "TEXT_SECONDARY": ["#D0F6FF"],
     "TEXT_PRIMARY": ["#FFFFFF"],
     "TEXT_MUTED": ["#7FD8E5"],
-    "INTERACTIVE_NORMAL": ["#2C2C2C"],
+    "INTERACTIVE_NORMAL": ["#6FF0FF"],
     "INTERACTIVE_HOVER": ["#181818"],
     "INTERACTIVE_ACTIVE": ["#FFFFFF"],
     "INTERACTIVE_MUTED": ["#2A2A2A"],
@@ -72,8 +72,7 @@
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#000000", "#000000", "#000000"],
     "BG_BASE_TERTIARY": ["#000000"],
     "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#00FFFF"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#1A1A1A"],
-    "SPOILER_HIDDEN_BACKGROUND": ["#2C2C2C"]
+    "SPOILER_HIDDEN_BACKGROUND": ["#2C2C2C"],
   },
   "rawColors": {
     "PRIMARY_200": "#037299",
@@ -93,7 +92,7 @@
     "GREEN_360": "#037299",
     "GREEN_430": "#000000",
     "WHITE_500": "#FFFFFF",
-    "BLUE_345": "#2C2C2C",
+    "BLUE_345": "#B8F6FF",
     "PLUM_1": "#037299",
     "PLUM_3": "#037299",
     "PLUM_6": "#FFFFFF",
@@ -109,7 +108,7 @@
     "PLUM_20": "#000000",
     "PLUM_22": "#002B50",
     "PLUM_24": "#000000",
-    "CHANNEL_UNREAD": "#00FFFF"
+    "CHANNEL_UNREAD": "#0000FF"
   },
   "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/DEAD1nsane/Turbo/raw/refs/heads/main/Fonts/Gantari-ExtraBold.ttf?raw=1",
