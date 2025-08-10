@@ -14,6 +14,7 @@
     "iconpack": "rosiecord-plumpy"
   },
   "semanticColors": {
+    "CHANNELS_UNREAD": ["#00FFFF"],
     "HEADER_PRIMARY": ["#FFFFFF"],
     "HEADER_SECONDARY": ["#FFFFFF"],
     "TEXT_NORMAL": ["#FFFFFF"],
